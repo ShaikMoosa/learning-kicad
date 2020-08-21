@@ -1,0 +1,2 @@
+# learning-kicad
+first build
