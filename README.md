@@ -1,2 +1,2 @@
 # learning-kicad
-first build
+secound build
